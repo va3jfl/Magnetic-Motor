@@ -1,5 +1,21 @@
 # Howard Johnson Magnetic-Gate Motor — Live Simulation
 
+<p align="center">
+  <a href="#install"><img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python 3.8+"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License: MIT"></a>
+  <a href="#install"><img src="https://img.shields.io/badge/platform-Windows%20·%20Linux%20·%20macOS-lightgrey" alt="Platform"></a>
+</p>
+
+### 📸 Screenshots
+*Click images to expand*
+
+<p align="left">
+  <a href="mag_johnson_full.png" target="_blank">
+    <img src="mag_johnson_full.png" width="80%" alt="VREC Studio Player">
+  </a>
+</p>
+
+
 A 2-D physics simulation of Howard Johnson's permanent-magnet **"magnetic gate"**
 motor (U.S. Patent 4,151,431): a magnet **cart** travels a circular track ringed
 by a configurable array of stator magnets (the *gate*), with optional small
